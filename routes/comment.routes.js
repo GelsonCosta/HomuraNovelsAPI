@@ -7,7 +7,7 @@ const authMiddleware = require('../middlewares/auth.middleware');
  * @swagger
  * tags:
  *   name: Comentarios
- *   description: API para gerenciar comentários
+ *   description: Endpoints
  * 
  * components:
  *   schemas:
@@ -32,8 +32,8 @@ const authMiddleware = require('../middlewares/auth.middleware');
  *       bearerFormat: JWT
  * 
  * info:
- *   title: API de Comentários
- *   description: API para gerenciar comentários
+ *   title: Endpoints
+ *   description: Endpoints
  *   version: 1.0.0
  * 
  * security:
