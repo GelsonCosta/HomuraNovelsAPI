@@ -304,9 +304,9 @@ Deleta uma webnovel pelo ID.
 - **500**: Erro ao deletar webnovel.
 - 
 ![3](https://github.com/GelsonCosta/HomuraNovelsAPI/assets/64416492/9940419d-a08a-4aca-af37-f9eb46a038d5)
-
+  **3**
 ![2](https://github.com/GelsonCosta/HomuraNovelsAPI/assets/64416492/72f52cb8-c852-42e5-b479-e45ae70ba867)
-
+  **2**
 ![1](https://github.com/GelsonCosta/HomuraNovelsAPI/assets/64416492/e6d295d4-7a33-455d-9b37-3b2f979ed6bc)
-
+  **1**
 **Desenvolvido por Gelson da Costa**
