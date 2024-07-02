@@ -28,12 +28,13 @@ Homura Webnovels é uma API para uma plataforma online de leitura de webnovels. 
   - [Deletar Webnovel por ID](#deletar-webnovel-por-id)
 
 ## Instalação
-  **Requisitos**
-  Node Runtime e NPM Instalados na Máquina
-  **Processo**
-  1- Abrir o diretório do projeto no terminal e executar npm install.
-  2- Ainda no terminal, executar o comando node app.js
-  3- Testar a API na interface Swagger, Postman ou qualquer outra plataforma.
+  - **Requisitos**
+  - Node Runtime e NPM Instalados na Máquina
+  - **Processo**
+  - 1- Abrir o diretório do projeto no terminal e executar npm install.
+  - 2- Configurar o arquivo .env de acordo a tua BD.
+  - 3- Ainda no terminal, executar o comando node app.js
+  - 4- Testar a API na interface Swagger, Postman ou qualquer outra plataforma.
 ## Autenticação
 
 ### Registrar
