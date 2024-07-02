@@ -1,7 +1,8 @@
 # Homura Webnovels API
 
 Homura Webnovels é uma API para uma plataforma online de leitura de webnovels. Esta documentação descreve os endpoints disponíveis para autenticação, gerenciamento de capítulos, comentários, usuários e webnovels.
-
+- Nome: Gelson da Costa
+- Processo: 20220346
 ## Índice
 
 - [Instalação](#instalação)
